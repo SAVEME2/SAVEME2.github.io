@@ -2,8 +2,8 @@
 layout: page
 title: Gallery
 subtitle: again, there's nothing here :)
-permalink: /gallery/
-gallery_path: "" # assets/img/pexels
+permalink: # /gallery/
+gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
 
