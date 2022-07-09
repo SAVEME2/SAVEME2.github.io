@@ -4,12 +4,12 @@ url: "https://saveme2.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: SAVEME2                                          # site's title
-description: "hi hello"                                 # used by search engines
+description: ""                                         # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Hi Hello                                   # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
